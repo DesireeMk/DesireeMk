@@ -4,11 +4,10 @@
 
 Technical Proficiencies:
 
-Data Analysis
-Data Visualization (Power BI)
-SQL (SQL Server Management Studio, MySQL)
-Python
-Database Management System 
+Data Analysis,
+Data Visualization (Power BI),
+MySQL,
+Python,
 Jupyter Notebooks 
 
 <!---
